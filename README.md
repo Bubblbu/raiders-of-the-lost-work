@@ -18,7 +18,7 @@ This workshop is based on the workshop "Tag der Befreiung der verlorenen Seminar
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
-![License Logo](/license.png "CC-BY 4.0")
+![License Logo](images/license.png "CC-BY 4.0")
 
 ## Preparation
 
