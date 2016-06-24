@@ -42,6 +42,7 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 	- [Free your paper](#free-your-paper)
 	- [Upload your paper](#upload-your-paper)
 	- [Disseminate your paper](#disseminate-your-paper)
+- [Discussion](#discussion)
 
 <!-- /MarkdownTOC -->
 
@@ -75,9 +76,9 @@ learning](www.know-center.tugraz.at/download_extern/papers/open_science.pdf)).
 
 In this workshop we will address:
 
-* **Open Source** and **Open file formats**: Offene Dateiformate erleichtern den Austausch zwischen verschiedenen Plattformen (Betriebssysteme, Programme). Das machen wir im Teil *[Seminararbeit konvertieren)(#seminararbeit-konvertieren)*.
-* **Open Data**: Daten die im Zuge wissenschaftlicher Projekte erhoben werden sind ein wichtiger Forschungsbeitrag und verdienen mehr Aufmerksamkeit, welche sie als Open Data leichter erlangen. Daten offen zur Verfügung zu stellen ist auch wichtig um Forschung reproduzierbar zu machen. Wir können in diesem Workshop auch von euch gesammelte Daten hochladen, aus Datenschutzgründen erfordern diese aber gesonderte Aufmerksamkeit.
-* **Open Access**: Der Zugang zu den Ergebnissen von Wissenschaft sollte allen gleichermaßen offen stehen. Open Access bedeutet uneingeschränkten Zugang zu, aber auch das Recht auf Weiterverwendung und Weiterverbreitung von Werken. Dies wird ermöglich durch Creative Commons Lizenzen, die wir im Teil [Urheber_innenrecht](#urheber_innenrecht) genauer besprechen.
+* **Open Source** and **Open file formats**: Open file formates simplify the exchange across platforms (operating systems, programs). This will be addressed in the part [Convert your paper](#convert-your-paper).
+* **Open Access**: The access to science should be open and available to everybody. Open Access means unrestricted access, but also the right to use and share other works. This is made possible by using the Creative Commons licenses, that we will discuss in the part about [Copyrights](#copyright).
+* **More Open Science**: Feel free to raise questions or comment during the [Discussion](#discussion).
 
 ### Why Open Science?
 
@@ -125,11 +126,11 @@ Some are **compatible with the Open Definition**:
 
 **Incompatible CC licenses**:
 
-- [Creative Commons Attribution-NonCommercial](https://creativecommons.org/licenses/by-nc/4.0/): (CC BY-NC), weil dadurch nicht alle das Werk nutzen dürfen. Ein großes Problem der non-commercial Klausel ist auch, das dies noch nie durchjudiziert worden ist und der Begriff nicht-kommerziell rechtlich sehr schwammig ist. Dies kann auch so ausgelegt werden, dass alle Organisationen, die Umsätze generieren, das Werk nicht verwenden können. Dies trifft oftmals auf Organisationen die man dabei gar nicht im Auge hat, wie zum Beispiel die Wikipedia, Zeitungen oder andere Open Projekte.
+- [Creative Commons Attribution-NonCommercial](https://creativecommons.org/licenses/by-nc/4.0/): (CC BY-NC)  The biggest problem of BY-NC is that the term *non-commercial* legally hasn't been properly defined yet. Sometimes it is interpreted in a way that organisations that generate any kind of turnover, are not allowed to use the work. As a consequence often organisations that are actually not in the target group, such as Wikipedia, newspapers or other Open projects, are affected.
 
 	![License Logo](images/ccbynd.png "CC BY-ND") 
 
-- [Creative Commons Attribution-NoDerivs](https://creativecommons.org/licenses/by-nd/4.0/): (CC BY-ND), weil das Verändern des Werkes nicht erlaubt ist.
+- [Creative Commons Attribution-NoDerivs](https://creativecommons.org/licenses/by-nd/4.0/): (CC BY-ND) Modification is not allowed and thus disqualifies as open.
 
 	![License Logo](images/ccbync.png "CC BY-NC") 
 
@@ -271,3 +272,7 @@ so...
 + [Twitter](http://twitter.com/): Micro-blogging Plattform
 + [Slideshare](http://slideshare.net/): Platfrom to upload and share presentations
 + Acedemic Social Networks (e.g. [ResearchGate](https://www.academia.edu/), [Academia](https://www.academia.edu/))
+
+## Discussion
+
+Please feel free to edit this part or add issues.
