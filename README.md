@@ -50,6 +50,20 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ### Why this workshop?
 
+Each MEi:CogSci student produces:
+
++ 2nd semester 10 ECTS project
++ 3rd semester 20 ECTS project
++ Master thesis
+
+MEI:CogSci 2015/16 cohort:
+
++ 25 students in Vienna
++ 33 students in Ljubljana
++ 12 students in Bratislava
+
+**210 projects/papers** that are usually lost
+
 ### Preparation
 
 + Install [LibreOffice](https://www.libreoffice.org/)
@@ -65,32 +79,35 @@ The [Open Definition](http://opendefinition.org/):
 
 > Open means anyone can freely access, use, modify, and share for any purpose (subject, at most, to requirements that preserve provenance and openness).
 
-![Open Science Principles](images/open_science.png "")
-
-Open Science Principles by Andreas E. Neuhold - Own work, CC BY 3.0, [https://commons.wikimedia.org/w/index.php?curid=33542838](https://commons.wikimedia.org/w/index.php?curid=33542838)
-
 ### The idea
 
 Open Science comprises multiple aspects (as in [P. Kraker, 2011: The case for an open science in technology enhanced
 learning](www.know-center.tugraz.at/download_extern/papers/open_science.pdf)).
 
-In this workshop we will address:
+![Open Science Principles](images/open_science.png "")
 
-* **Open Source** and **Open file formats**: Open file formates simplify the exchange across platforms (operating systems, programs). This will be addressed in the part [Convert your paper](#convert-your-paper).
-* **Open Access**: The access to science should be open and available to everybody. Open Access means unrestricted access, but also the right to use and share other works. This is made possible by using the Creative Commons licenses, that we will discuss in the part about [Copyrights](#copyright).
-* **More Open Science**: Feel free to raise questions or comment during the [Discussion](#discussion).
+Open Science Principles by Andreas E. Neuhold - Own work, CC BY 3.0, [https://commons.wikimedia.org/w/index.php?curid=33542838](https://commons.wikimedia.org/w/index.php?curid=33542838)
+
+The six principles of Open Science:
+
++ **Open Methodology**: The usage of methods and the general process during research should be documented in a practical and relevant manner
++ **Open Source**: The use of open source technologies (software & hardware) and 
++ **Open Data**: Make data free and open
++ **Open Access**: The access to science should be open and available to everybody. Open Access means unrestricted access, but also the right to use and share other works. This is made possible by using the Creative Commons licenses, that we will discuss in the part about [Copyrights](#copyright).
++ **Open Peer Review**: Transparent and comprehensible quality assurance by using open peer review
++ **Open Educational Resources**: Free and open material for education and teaching at universities
+
+**Open file formats**: Open file formates simplify the exchange across platforms (operating systems, programs). This will be addressed in the part [Convert your paper](#convert-your-paper).
 
 ### Why Open Science?
 
-Open Science
+* Leads to more visibility, thus more citations
+* Enables reproducability of research
+* Reduces redundancy
 
-* leads to more visibility, thus more citations
-* enables reproducability of research
-* reduces redundancy
+*Further reading*
 
-**The Vienna Principles**
-
-![Vienna principles](images/vienna_principles.png "")
+![Vienna Principles](images/vienna_principles.png) 
 
 [The Vienna Principles](viennaprinciples.org)
 
@@ -157,7 +174,7 @@ Shortcode:
 
 #### Find the material
 
-To find works that you are allowed to use, it is recommended to use known sources for free material such as [Wikipedia](https://wikipedia.org/)) or search engines, with the option to filter by usage rights (Google Images: Search Tools → Usage rights → *Labeled for reuse with modification*, [Creative Commons Suche](https://search.creativecommons.org/)).
+To find works that you are allowed to use, it is recommended to use known sources for free material such as [Wikipedia](https://wikipedia.org/)) or search engines, with the option to filter by usage rights (Google Images: Search Tools → Usage rights → *Labeled for reuse with modification*, [Creative Commons Search](https://search.creativecommons.org/)).
 
 *Important* Most of the content on the internet and in science does not, so be careful.
 
